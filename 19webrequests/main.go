@@ -6,7 +6,7 @@ import (
 	"net/http"
 )
 
-const url = "https://lco.dev"
+const url = "http://localhost:3000/data"
 
 func main() {
 	fmt.Println("LCO web request")
